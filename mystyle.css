@@ -1,0 +1,64 @@
+html{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    background-color:azure;
+}
+
+h1{
+    background-color: aquamarine;
+    text-align: center;
+}
+h2{
+    background-color: aqua;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2px;
+    margin: 2px;
+  }
+
+  a{
+      text-decoration-color: blue;
+  }
+
+  .primaryHeader h2 {
+    background-color: green; /* the header looks like a box */
+    color: black;    
+    background: transparent url(https://images-na.ssl-images-amazon.com/images/I/51SxWYZ1C0L._SX311_BO1,204,203,200_.jpg) no-repeat right center;
+    border: 1px solid red;
+ }
+
+
+
+ #Space-Marine{
+    justify-content: space-evenly;
+    display: flex;
+    background-color: blanchedalmond;
+    padding: 5%;
+    max-width: 100%;
+    max-height: 100%;
+
+ }
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25;
+      }
+
+      img:hover {
+        cursor:-webkit-zoom-in;
+    }
+
+
+
+    
